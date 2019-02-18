@@ -1,0 +1,129 @@
+
+
+a:hover,
+a:focus,
+.text-primary,
+.panel-primary > .panel-heading .badge,
+.caro-prev-2:hover, .caro-next-2:hover, .caro-prev-2:focus, .caro-next-2:focus, .caro-prev-2:active, .caro-next-2:active,
+.scroll-buttons li:hover a {
+  color: #ffc300;
+}
+
+/*** Background Color Primary
+------------------------------------------------ ***/
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary,
+.open > .dropdown-toggle.btn-primary:hover,
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus,
+
+.navbar-nav > li > a:before,
+.readmore,
+.nav-stacked-custom > li.active > a .iconic:before,
+.nav-stacked-custom > li.active > a .iconic:after,
+.owl-pagination .owl-page,
+.caro-prev:hover, .caro-next:hover,
+.team-box .text a:hover,
+.team-block .text .team-desig:after,
+.team-block .text .more-text p a:hover,
+.testim-admin:before,
+.btn-dark-2 .btn-partial,
+.post-meta li a:hover,
+.fact-box:before,
+.social-links li a:hover,
+.mCS-minimal.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
+.mCS-minimal.mCSB_scrollTools .mCSB_dragger.mCSB_dragger_onDrag .mCSB_dragger_bar,
+.mCS-minimal.mCSB_scrollTools .mCSB_dragger:active .mCSB_dragger_bar,
+.scroll-buttons .active a,
+.triangle-shape {
+	background-color: #ffc300;
+}
+
+::selection {
+  background-color: #ffc300;
+}
+::-moz-selection {
+  background-color: #ffc300;
+}
+
+
+/*** border colors ***/
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary,
+.open > .dropdown-toggle.btn-primary:hover,
+.btn-default,
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus,
+.btn-light:hover,
+.btn-light:focus,
+.btn-light:active,
+.btn-light:active:hover,
+.btn-light.active:hover,
+.open > .dropdown-toggle.btn-light:hover,
+.btn-light:active:focus,
+.btn-light.active:focus,
+.open > .dropdown-toggle.btn-light:focus,
+.btn-light:active.focus,
+.btn-light.active.focus,
+.open > .dropdown-toggle.btn-light.focus,
+
+.tp-bullets.tp-thumbs .bullet.selected,
+.panel-primary > .panel-heading,
+.caro-prev-2:hover, .caro-next-2:hover, .caro-prev-2:focus, .caro-next-2:focus, .caro-prev-2:active, .caro-next-2:active,
+.social-links li a:hover,
+.site-nav li:hover > a,
+.site-nav li a:hover, .slide-iconic:hover .slide-icon {
+	border-color: #ffc300;
+}
+
+.heading-tri:before {
+  border-top-color: #ffc300;
+}
+.btn-dark,
+blockquote,
+.services-text {
+  border-left-color: #ffc300;
+}
+.news-block {
+  border-right-color: #ffc300;	
+}
+
+.panel-primary > .panel-footer + .panel-collapse > .panel-body,
+.panel-primary .panel-collapse.in .panel-body,
+.form-control:focus,
+.focused .form-control,
+.team-box .text,
+.fact-box .iconic,
+.link-focus,
+.list-options a:hover, .list-options .active a {
+  border-bottom-color: #ffc300;
+}
+
+
+
+.btn-primary:active:hover,
+.btn-primary.active:hover,
+.btn-primary:active:focus,
+.btn-primary.active:focus,
+.btn-primary:active.focus,
+.btn-primary.active.focus,
+.open > .dropdown-toggle.btn-primary.focus {
+  background-image: -webkit-radial-gradient(circle, #cea00a 10%, #ffc300 11%);
+  background-image: radial-gradient(circle, #cea00a 10%, #ffc300 11%);
+}
+.btn-primary:focus {
+  background-color: #cea00a;	
+}
